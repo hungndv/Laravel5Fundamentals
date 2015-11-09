@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Laravel5Fundatmentals
+        psr4_prefix: Laravel5Fundatmentals
+        src_path: app
